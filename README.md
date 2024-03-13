@@ -44,10 +44,6 @@ Sample code snippets and screenshots demonstrate the implementation of the syste
 
 The chatting web application offers a seamless communication experience with advanced features. Future enhancements could include face recognition-based account unlocking and group chatting functionalities to further improve the platform's utility and versatility.
 
-## References
-
-[Provide relevant references here]
-
 ## How to Use
 
 1. Clone the repository to your local machine.
